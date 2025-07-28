@@ -65,9 +65,12 @@ echo - Flask (servidor web)
 echo - Flask-CORS (comunicacao frontend/backend)
 echo - Flask-SQLAlchemy (banco de dados)
 echo - OpenAI (integracao IA)
+echo - Google APIs (busca)
+echo - Supabase (banco de dados)
 echo - E outras bibliotecas necessarias
+echo.
+echo ⚠️  IMPORTANTE: Verifique se o arquivo .env esta configurado!
 echo.
 echo Para executar o backend, use: run_backend.bat
 echo.
 pause
-
